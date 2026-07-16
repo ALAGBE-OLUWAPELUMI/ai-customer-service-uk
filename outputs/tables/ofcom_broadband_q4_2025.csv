@@ -1,0 +1,8 @@
+service,provider,quarter,complaints_per_100k,year,q,t,is_industry_avg,yearf
+Fixed broadband,Plusnet,2025 Q4,5.0,2025,4,8103,False,2025.75
+Fixed broadband,Virgin Media,2025 Q4,5.0,2025,4,8103,False,2025.75
+Fixed broadband,Sky,2025 Q4,7.0,2025,4,8103,False,2025.75
+Fixed broadband,EE,2025 Q4,8.0,2025,4,8103,False,2025.75
+Fixed broadband,BT,2025 Q4,8.0,2025,4,8103,False,2025.75
+Fixed broadband,TalkTalk Group,2025 Q4,10.0,2025,4,8103,False,2025.75
+Fixed broadband,Vodafone,2025 Q4,11.0,2025,4,8103,False,2025.75
